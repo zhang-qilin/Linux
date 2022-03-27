@@ -1,5 +1,7 @@
 # Linux
 
+[![](https://img.shields.io/badge/blog-@champyin-red.svg)](https://champyin.com)
+
 > 
 >
 > 一个甩锅侠的运维的日常
