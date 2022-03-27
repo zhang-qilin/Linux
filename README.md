@@ -1,8 +1,10 @@
 # Linux
 
+> 
+>
 > 一个甩锅侠的运维的日常
 >
-> <u>[Gitee地址](https://gitee.com/zhang-qilin-0522)</u>和<u>[GitHub地址](https://github.com/zhang-qilin)</u>实时同步中
+> [Gitee地址](https://gitee.com/zhang-qilin-0522)和[GitHub地址](https://github.com/zhang-qilin)实时同步中
 >
 > **【下载】**
 >
@@ -10,7 +12,7 @@
 >
 > <u>[GitHub下载](https://github.com/zhang-qilin/Linux/archive/refs/heads/main.zip)</u>
 >
-> 最近一次更新2022.03.27 18:33
+> 最近一次更新2022.03.27 19:31
 
 
 ## [基础](./basis)
@@ -40,4 +42,4 @@
 
 ### [12-磁盘存储和文件系统](./basis/12-磁盘存储和文件系统.md)
 
-### <u>[待更新中...]()</u>
+### [待更新中...]()
