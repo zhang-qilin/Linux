@@ -4,7 +4,7 @@
 >
 > 一个不做背锅侠的运维的小笔记
 >
->  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question: 每天问三问
+>  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question:  :question: 每天问三问
 > 
 > <mark>今天干什么？干得怎么样？明天要干什么？
 >
