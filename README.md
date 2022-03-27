@@ -10,9 +10,8 @@
 >
 > [Gitee下载](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
 > 
->  ![GitHub_Log](./basis/images/github.svg)
 > 
-> [GitHub下载](https://github.com/zhang-qilin/Linux/archive/refs/heads/main.zip)
+> [GitHub下载](https://github.com/zhang-qilin/Linux/archive/refs/heads/main.zip?style=plastic)
 >
 > 最近一次更新2022.03.27 19:31
 
