@@ -1,15 +1,15 @@
 # Linux
 
 > 一个甩锅侠的运维的日常
-> 
-> [$\underline{\text{Gitee地址}}$](https://gitee.com/zhang-qilin-0522)和[$\underline{\text{GitHub地址}}$](https://github.com/zhang-qilin)实时同步中
+>
+> <u>[Gitee地址](https://gitee.com/zhang-qilin-0522)</u>和<u>[GitHub地址](https://github.com/zhang-qilin)</u>实时同步中
 >
 > **【下载】**
->  
->   [$\underline{\text{Gitee下载}}$](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
->  
->   [$\underline{\text{GitHub下载}}$](https://github.com/zhang-qilin/Linux/archive/refs/heads/main.zip)
->  
+>
+> <u>[Gitee下载](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)</u>
+>
+> <u>[GitHub下载](https://github.com/zhang-qilin/Linux/archive/refs/heads/main.zip)</u>
+>
 > 最近一次更新2022.03.27 18:33
 
 
@@ -40,7 +40,4 @@
 
 ### [12-磁盘存储和文件系统](./basis/12-磁盘存储和文件系统.md)
 
-### [待更新中...]()
-
-
-
+### <u>[待更新中...]()</u>
