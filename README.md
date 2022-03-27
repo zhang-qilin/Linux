@@ -10,8 +10,8 @@
 > 
 > **【下载】**
 >
->  [![](https://img.shields.io/badge/Download-For@Giee-brightgreen.svg?style=plastic&logo=Gitee)](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
->  [![](https://img.shields.io/badge/Download-For@GitHub-brightgreen.svg?style=plastic&logo=Github)](https://github.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
+>  [![](https://img.shields.io/badge/Download-@Giee-brightgreen.svg?style=plastic&logo=Gitee)](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
+>  [![](https://img.shields.io/badge/Download-@GitHub-brightgreen.svg?style=plastic&logo=Github)](https://github.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
 >  
 > 
 
