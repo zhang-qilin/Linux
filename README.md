@@ -9,7 +9,8 @@
 > **【下载】**
 >
 > <u>[Gitee下载](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)</u>
->
+> 
+> ![GitHub_Log](./basis/images/GitHub_Log.png)
 > <u>[GitHub下载](https://github.com/zhang-qilin/Linux/archive/refs/heads/main.zip)</u>
 >
 > 最近一次更新2022.03.27 19:31
