@@ -8,7 +8,7 @@
 >
 > **【下载】**
 >
->  [![](https://img.shields.io/badge/Download-For@Giee-success.svg?style=plastic)](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
+>  [![](https://img.shields.io/badge/Download-For@Giee-brightgreen.svg?style=plastic)](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
 >  [![](https://img.shields.io/badge/Download-For@GitHub-brightgreen.svg?style=plastic)](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
 >
 > 最近一次更新2022.03.27 19:31
