@@ -12,7 +12,7 @@
 > 
 >  [![](https://img.shields.io/badge/最近更新时间-2022.03.22_22:25-blue.svg?style=social)](https://github.com/zhang-qilin/Linux)
 > 
-> **【下载】**
+> **【Download】**
 >
 >  [![](https://img.shields.io/badge/Download-@Giee-brightgreen.svg?style=plastic&logo=Gitee)](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
 >  [![](https://img.shields.io/badge/Download-@GitHub-brightgreen.svg?style=plastic&logo=Github)](https://github.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
