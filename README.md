@@ -10,7 +10,7 @@
 >
 > [Gitee下载](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
 > 
->  ![GitHub_Log](./basis/images/GitHub_Log.png)
+>  ![GitHub_Log](./basis/images/github.svg)
 > 
 > [GitHub下载](https://github.com/zhang-qilin/Linux/archive/refs/heads/main.zip)
 >
