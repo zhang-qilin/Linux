@@ -4,6 +4,10 @@
 >
 > 一个不做背锅侠的运维的小笔记
 >
+> 每天问
+> 
+> 今天干什么？干得怎么样？明天要干什么？
+>
 > [Gitee地址](https://gitee.com/zhang-qilin-0522)和[GitHub地址](https://github.com/zhang-qilin)实时同步中
 > 
 >  [![](https://img.shields.io/badge/最近更新时间-2022.03.22_21:13-blue.svg?style=social)](https://github.com/zhang-qilin/Linux)
