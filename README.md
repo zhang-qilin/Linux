@@ -2,7 +2,7 @@
 
 > 
 >
-> 一个甩锅侠的运维的日常
+> 一个不做背锅侠的运维的小笔记
 >
 > [Gitee地址](https://gitee.com/zhang-qilin-0522)和[GitHub地址](https://github.com/zhang-qilin)实时同步中
 > 
