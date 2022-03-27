@@ -6,7 +6,7 @@
 >
 > **【下载】**
 >  
->  [<u>Gitee下载</u>](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)         [<u>GitHub下载</u>](https://github.com/zhang-qilin/Linux/archive/refs/heads/main.zip)
+>  [ <u>Gitee下载</u> ](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)         [<u>GitHub下载</u>](https://github.com/zhang-qilin/Linux/archive/refs/heads/main.zip)
 >  
 > 最近一次更新2022.03.27 18:33
 
