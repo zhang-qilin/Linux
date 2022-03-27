@@ -9,8 +9,6 @@
 > **【下载】**
 >
 > [![](https://img.shields.io/badge/Gitee-下载-red.svg)](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
-> 
-> 
 > [![](https://img.shields.io/badge/GitHub-下载-red.svg)](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
 >
 > 最近一次更新2022.03.27 19:31
