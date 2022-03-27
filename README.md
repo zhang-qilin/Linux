@@ -4,9 +4,9 @@
 >
 > 一个不做背锅侠的运维的小笔记
 >
->                                                           <mark>每天问三问
+> <mark>每天问三问 :speech_balloon: 
 > 
-> <mark>今天干什么？干得怎么样？明天要干什么？
+> <mark>今天干什么 :thought_balloon: 干得怎么样 :thought_balloon: 明天要干什么 :thought_balloon: 
 >
 > [Gitee地址](https://gitee.com/zhang-qilin-0522)和[GitHub地址](https://github.com/zhang-qilin)实时同步中
 > 
