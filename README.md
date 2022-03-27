@@ -1,6 +1,6 @@
 # Linux
 
-[![](https://img.shields.io/badge/blog-@champyin-red.svg)](https://champyin.com)
+[![](https://img.shields.io/badge/GitHub-下载-red.svg)](https://gitee.com/zhang-qilin-0522/Linux/repository/archive/main.zip)
 
 > 
 >
