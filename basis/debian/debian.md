@@ -5,7 +5,7 @@
 清空motd内容
 
 ```
-root@ispsrv:~# > /etc/motd
+root@ispsrv:~# > /etc/motd 
 ```
 
 注释显示内核版本
