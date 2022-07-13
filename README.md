@@ -10,7 +10,7 @@
 >
 > [Gitee地址](https://gitee.com/zhang-qilin-0522)和[GitHub地址](https://github.com/zhang-qilin)实时同步中
 > 
->  [![](https://img.shields.io/badge/最近更新时间-2022.07.1318:00-blue.svg?style=social)](https://github.com/zhang-qilin/Linux)
+>  [![](https://img.shields.io/badge/最近更新时间-2022.07.13 18:00-blue.svg?style=social)](https://github.com/zhang-qilin/Linux)
 > 
 > **【Download】**
 >
