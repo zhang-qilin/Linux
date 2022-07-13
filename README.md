@@ -44,7 +44,7 @@
 ### [19-网络时间服务和chrony](./basis/MD/19-网络时间服务和chrony.md)
 ### [20-运维自动化之系统部署](./basis/MD/20-运维自动化之系统部署.md)
 ### [21-运维自动化之ANSIBLE](./basis/MD/21-运维自动化之ANSIBLE.md)
-### [22-DNS服务和 BIND](./basis/MD/22-DNS服务和 BIND.md)
+### [22-DNS服务和 BIND](./basis/MD/22-DNS服务和BIND.md)
 ### [23-mysql](./basis/MD/23-mysql.md)
 ### [24-HTTP协议和APACHE](./basis/MD/24-HTTP协议和APACHE.md)
 ### [25-实现LAMP架构](./basis/MD/25-实现LAMP架构.md)
