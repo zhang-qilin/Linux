@@ -1819,11 +1819,11 @@ define('DB_HOST', '192.168.100.200');
 
 5、浏览器访问安装
 
-![wordpress01.png](.\wordpress01.png)
+![wordpress01.png](./wordpress01.png)
 
 6、登录admin账号
 
-![wordpress02.png](.\wordpress02.png)
+![wordpress02.png](./ wordpress02.png)
 
 ### 13.6、phpmyadmin
 
@@ -1860,7 +1860,7 @@ MariaDB [(none)]> quit
 
 5、登录phpmyadmin
 
-![phpmyadmin](.\phpmyadmin.png)
+![phpmyadmin](./phpmyadmin.png)
 
 ### 13.7、Discuz
 
@@ -1874,7 +1874,7 @@ mv upload discuz
 
 2、使用浏览器访问站点，按照向导完成安装
 
-![discuz](.\discuz01.png)
+![discuz](./discuz01.png)
 
 3、安装依赖，修改目录权限
 
@@ -1891,11 +1891,11 @@ MariaDB [(none)]> create database discuz;
 MariaDB [(none)]> grant all on discuz.* to 'mysql'@'localhost' identified by 'mysql';
 ```
 
-![discuz](.\discuz02.png)
+![discuz](./discuz02.png)
 
 5、安装完成，登录admin账号
 
-![discuz](.\discuz03.png)
+![discuz](./discuz03.png)
 
 ## 14、ftp服务
 
@@ -2246,11 +2246,11 @@ systemctl restart postfix dovecot
 
 9、导入证书
 
-![cacert](.\cacert.png)
+![cacert](./cacert.png)
 
 10、登录测试
 
-![mail](.\mail.png)
+![mail](./mail.png)
 
 ### 15.2、roundcube
 
@@ -2313,7 +2313,7 @@ MariaDB [(none)]> grant all on roundcube.* to 'rcuser'@'192.168.100.100' identif
 
 7、浏览器访问安装http://mail.chinaskills.cn/installer
 
-![roundcube01](.\roundcube01.png)
+![roundcube01](./roundcube01.png)
 
 8、生成配置文件
 
@@ -2393,11 +2393,11 @@ echo "mailuser2:chinaskills" | chpasswd
 
 12、登录，修改邮箱后缀
 
-![roundcube01](.\roundcube02.png)
+![roundcube01](./roundcube02.png)
 
 13、发送测试邮件
 
-![roundcube01](.\roundcube03.png)
+![roundcube01](./roundcube03.png)
 
 14、邮件组设置
 
@@ -2413,7 +2413,7 @@ postalias /etc/aliases
 
 15、邮件组测试
 
-![roundcube01](.\roundcube04.png)
+![roundcube01](./roundcube04.png)
 
 ## 16、AIDE
 
