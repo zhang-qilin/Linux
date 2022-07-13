@@ -3068,10 +3068,3 @@ systemctl restart openvpn-client@csk
     inet6 fe80::57b:bb5f:3d19:3fd8/64 scope link stable-privacy 
        valid_lft forever preferred_lft forever
 ```
-
-
-
-
-
-
-
