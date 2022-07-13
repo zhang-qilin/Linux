@@ -50,7 +50,7 @@
 ### [25-实现LAMP架构](./basis/MD/25-实现LAMP架构.md)
 ### [26-日志管理](./basis/MD/26-日志管理.md)
 ### [27-网络文件共享服务](./basis/MD/27-网络文件共享服务.md)
-### [28-Linux 防火墙](./basis/MD/28-Linux 防火墙.md)
+### [28-Linux 防火墙](./basis/MD/28-Linux防火墙.md)
 ### [29-LVS](./basis/MD/29-LVS.md)
 ### [30-keepalived](./basis/MD/30-keepalived.md)
 ### [31-nginx](./basis/MD/31-nginx.md)
