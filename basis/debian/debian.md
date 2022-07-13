@@ -1823,7 +1823,7 @@ define('DB_HOST', '192.168.100.200');
 
 6、登录admin账号
 
-![wordpress02.png](./ wordpress02.png)
+![wordpress02.png](./wordpress02.png)
 
 ### 13.6、phpmyadmin
 
